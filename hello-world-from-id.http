@@ -1,0 +1,6 @@
+@hello_world_from_id_HostAddress = http://localhost:5219
+
+GET {{hello_world_from_id_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
