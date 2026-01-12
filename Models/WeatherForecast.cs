@@ -1,4 +1,4 @@
-namespace hello_world_from_id;
+namespace hello_world_from_id.Models;
 
 public class WeatherForecast
 {
